@@ -7,4 +7,12 @@ main:
   - name: Home
     url: /
     weight: 10
-
+  - name: Machine Learning
+    url: https://wangyiou-notebook.netlify.app/machine-learning/
+    weight: 11
+  - name: 数据结构
+    url: https://wangyiou-notebook.netlify.app/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
+    weight: 12
+  - name: 百度
+    url: https://www.baidu.cm
+    weight: 13
