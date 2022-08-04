@@ -51,6 +51,25 @@
       "command_palette_availability": "enabled",
       "preactions": [],
       "variable_default_values": {}
+    },
+    "2": {
+      "platform_specific_commands": {
+        "default": "start cmd /K \"git add --all && git commit -m \"%date%%time:~0,8%\" && git push origin main\""
+      },
+      "shells": {},
+      "alias": "Push",
+      "icon": "activity",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
     }
   },
   "prompts": [],
