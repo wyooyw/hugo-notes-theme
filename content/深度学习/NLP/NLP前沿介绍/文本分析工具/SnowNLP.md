@@ -1,3 +1,8 @@
+---
+linktitle: SnowNLP
+summary: Summary of SnowNLP
+type: book
+---
 # SnowNLP
 ## 快速上手
 ### github地址
