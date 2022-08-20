@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/深度学习/NLP/机器翻译/评价指标.md",
+            "file": "content/笔记维护/笔记维护流程.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/深度学习/NLP/机器翻译/评价指标.md",
+                "file": "content/笔记维护/笔记维护流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/深度学习/NLP/机器翻译/评价指标.md",
+                "file": "content/笔记维护/笔记维护流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/深度学习/NLP/机器翻译/评价指标.md"
+                "file": "content/笔记维护/笔记维护流程.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef8535d7bffc5ae6",
+  "active": "5e990d25d5be155c",
   "lastOpenFiles": [
-    "content/深度学习/NLP/机器翻译/Beam Search.md",
     "content/深度学习/NLP/机器翻译/评价指标.md",
-    "content/Linux常用命令.md",
-    "content/深度学习/NLP/NLP前沿介绍/文本分析工具/THULAC.md",
-    "content/深度学习/NLP/NLP前沿介绍/文本分析工具/SnowNLP.md",
-    "content/深度学习/NLP/NLP前沿介绍/文本分析工具/_index.md",
-    "content/深度学习/NLP/NLP前沿介绍/_index.md",
+    "content/笔记维护/笔记维护流程.md",
     "content/笔记维护/报错解决方案.md",
-    "content/深度学习/NLP/NLP前沿介绍/文本分析工具.md",
-    "content/深度学习/NLP/情感分析.md"
+    "content/深度学习/NLP/机器翻译/_index.md",
+    "content/cuda编程/基本概念.md",
+    "content/cuda编程/profile.md",
+    "content/C语言/常用api.md",
+    "content/深度学习/NLP/机器翻译/Beam Search.md",
+    "content/Linux常用命令.md",
+    "content/深度学习/NLP/NLP前沿介绍/文本分析工具/THULAC.md"
   ]
 }
