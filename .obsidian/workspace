@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 423.5
   },
   "right": {
     "id": "9b1794698d0bc14e",
@@ -130,6 +130,8 @@
   },
   "active": "5e990d25d5be155c",
   "lastOpenFiles": [
+    "content/数学/凸优化/理论/凸函数/笔记/_index.md",
+    "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md",
     "content/数学/凸优化/未命名.md",
     "content/git/diff.md",
     "content/Linux常用命令.md",
@@ -137,8 +139,6 @@
     "content/编程技术/python/半精度浮点数.md",
     "content/编程技术/python/随机数.md",
     "content/笔记维护/笔记维护流程.md",
-    "content/深度学习/NLP/机器翻译/评价指标.md",
-    "content/笔记维护/报错解决方案.md",
-    "content/深度学习/NLP/机器翻译/_index.md"
+    "content/深度学习/NLP/机器翻译/评价指标.md"
   ]
 }
