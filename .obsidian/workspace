@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "25bf1b5f5eac992a",
+        "id": "f47c6be70403afc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25bf1b5f5eac992a",
+  "active": "f47c6be70403afc7",
   "lastOpenFiles": [
     "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md",
     "README.md",
