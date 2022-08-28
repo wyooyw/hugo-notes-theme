@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f47c6be70403afc7",
+        "id": "5b9725483acadede",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md",
+            "file": "content/数学/凸优化/理论/凸函数/笔记/下水平集与上境图.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 354
   },
   "right": {
     "id": "9b1794698d0bc14e",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md",
+                "file": "content/数学/凸优化/理论/凸函数/笔记/下水平集与上境图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md",
+                "file": "content/数学/凸优化/理论/凸函数/笔记/下水平集与上境图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md"
+                "file": "content/数学/凸优化/理论/凸函数/笔记/下水平集与上境图.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f47c6be70403afc7",
+  "active": "5b9725483acadede",
   "lastOpenFiles": [
-    "content/数学/凸优化/理论/凸函数/笔记/1.凸函数的6个等价定义.md",
-    "README.md",
-    "preview.webp",
+    "content/数学/凸优化/理论/凸函数/笔记/下水平集与上境图.md",
     "content/数学/凸优化/理论/凸函数/笔记/_index.md",
-    "content/数学/凸优化/未命名.md",
-    "content/git/diff.md",
-    "content/Linux常用命令.md",
-    "content/机器学习编译/多面体模型.md",
-    "content/编程技术/python/半精度浮点数.md",
-    "content/编程技术/python/随机数.md"
+    "content/数学/凸优化/理论/凸函数/笔记/凸函数的基本定义与性质.md",
+    "content/数学/_index.md",
+    "content/深度学习/NLP/文档分析与阅读理解/知识图谱问答.md",
+    "content/深度学习/NLP/文档分析与阅读理解/开放域问答.md",
+    "content/深度学习/NLP/情感分析.md",
+    "content/深度学习/NLP/_index.md",
+    "content/深度学习/NLP/机器翻译/评价指标.md",
+    "content/编程技术/python/matplotlib画函数图像.md"
   ]
 }

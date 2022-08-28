@@ -70,6 +70,82 @@
       "command_palette_availability": "enabled",
       "preactions": [],
       "variable_default_values": {}
+    },
+    "3": {
+      "platform_specific_commands": {
+        "default": "cd ../tools/paint && new_coordinate.bat center 512"
+      },
+      "shells": {},
+      "alias": "Paint Coord at Center 512",
+      "icon": "activity",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "4": {
+      "platform_specific_commands": {
+        "default": "cd ../tools/paint && new_coordinate.bat side 512"
+      },
+      "shells": {},
+      "alias": "Paint Coord at Side 512",
+      "icon": "activity",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "5": {
+      "platform_specific_commands": {
+        "default": "cd ../tools/paint && new_coordinate.bat center 384"
+      },
+      "shells": {},
+      "alias": "Paint Coord at Center 384",
+      "icon": "activity",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "6": {
+      "platform_specific_commands": {
+        "default": "cd ../tools/paint && new_coordinate.bat side 384"
+      },
+      "shells": {},
+      "alias": "Paint Coord at Side 384",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
     }
   },
   "prompts": [],

@@ -1,4 +1,8 @@
 {
   "cssTheme": "California Coast",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "image-zoom"
+  ]
 }
