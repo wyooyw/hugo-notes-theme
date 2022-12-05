@@ -1,8 +1,9 @@
 {
-  "cssTheme": "California Coast",
+  "cssTheme": "Big Sur Aesthetic",
   "theme": "moonstone",
-  "baseFontSize": 17,
+  "baseFontSize": 21,
   "enabledCssSnippets": [
     "image-zoom"
-  ]
+  ],
+  "accentColor": ""
 }

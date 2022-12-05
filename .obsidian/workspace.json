@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "3de7c860425da74c",
+    "type": "split",
+    "children": [
+      {
+        "id": "01bca7e31cfd4d50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fdd491544930a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/笔记维护/报错解决方案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17802b47311f5257",
+    "type": "split",
+    "children": [
+      {
+        "id": "886bcc76373dac97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8535d7bffc5ae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "768b4ff3eab85422",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "浮点数",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9bc7928f321aaab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9b1794698d0bc14e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41c4d0348cd758a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6fa3d1ca6c0e91b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/笔记维护/报错解决方案.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffd2b5209d5299dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/笔记维护/报错解决方案.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b736a79e3cfa970c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd8dedfa6d901dde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/笔记维护/报错解决方案.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7fdd491544930a24",
+  "lastOpenFiles": [
+    "content/计算机基础知识/数的表示法/字节序.md",
+    "content/计算机基础知识/数的表示法/浮点数.md",
+    "content/机器学习/贝叶斯分类器/贝叶斯网.md",
+    "content/机器学习/无监督学习/降维/MDS.md",
+    "content/计算机基础知识/数的表示法/未命名.md",
+    "content/计算机基础知识/数的表示法/_index.md",
+    "content/编程技术/python/半精度浮点数.md",
+    "content/机器学习/无监督学习/降维/PCA.md",
+    "content/编程技术/python/pandas/一些实例.md",
+    "content/深度学习系统/pytorch/pytorch源码安装.md"
+  ]
+}

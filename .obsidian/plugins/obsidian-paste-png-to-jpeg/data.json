@@ -5,6 +5,6 @@
   "autoRename": true,
   "autoMove": false,
   "pngToJpeg": true,
-  "quality": "0.6",
+  "quality": "1.0",
   "dirpath": "image/"
 }

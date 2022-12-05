@@ -1,0 +1,23 @@
+---
+linktitle: Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes
+summary: Summary of Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes
+type: book
+weight: 3
+---
+# Accelerating sparse matrix-vector multiplication on GPUs using bit-representation-optimized schemes.
+## 主要思想
+稀疏在GPU上效果不好，是因为其计算强度低，瓶颈在显存带宽上。所以针对稀疏格式的索引进行压缩，来提升速度。
+要求解压步骤可以非常快地在GPU上执行。
+## BRO-ELL
+针对ELL格式的列索引的压缩
+![](Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes-1662256222182.jpeg)
+解压算法：
+![](Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes-1662256294387.jpeg)
+
+## 行交换
+解决优化问题：
+![](Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes-1662258600844.jpeg)
+其中d和c分别是
+![](Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes-1662258642596.jpeg)
+使用贪心策略：
+![](Accelerating_sparse_matrix_vector_multiplication_on_GPUs_using_bit_representation_optimized_schemes-1662258563976.jpeg)

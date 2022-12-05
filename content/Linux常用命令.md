@@ -38,3 +38,9 @@ tar -zxvf [文件名].tar.gz -C [文件目录] //解压.gz文件到指定目录
 -f 指定压缩文件  
 -v 显示操作过程  
 -z 支持gzip解压文件
+
+## 2 查看硬盘使用情况
+du -h . --max-depth=1
+
+## 3.find后接rm
+find . -name "\*\_BalanceInfer.pth" -exec rm -i "{}" \;
